@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # Defining  variables
-GOOGLE_API_KEY = "AIzaSyC_Z8eM6B_0_xCXaCvbvxQa9oJw0nwpTbM" # Google API Key
+GOOGLE_API_KEY = "<YOUR_GOOGLE_API_KEY>" # Google API Key
 sophIA_img = "https://raw.githubusercontent.com/kaledbarreto/SophiAI/main/assets/sophIA.png" #SophIA image
 user_img = "https://raw.githubusercontent.com/kaledbarreto/SophiAI/main/assets/user.png" #User image
 
