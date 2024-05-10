@@ -1,5 +1,7 @@
 import streamlit as st
 from PIL import Image
+from dotenv import load_dotenv
+import os
 import google.generativeai as gen_ai
 
 # Configure Streamlit page settings
@@ -10,12 +12,12 @@ st.set_page_config(
 )
 
 # Defining  variables
-GOOGLE_API_KEY = "<YOUR_GOOGLE_API_KEY>" # Google API Key
-sophIA_img = "https://raw.githubusercontent.com/kaledbarreto/SophiAI/main/assets/sophIA.png" #SophIA image
-user_img = "https://raw.githubusercontent.com/kaledbarreto/SophiAI/main/assets/user.png" #User image
+load_dotenv()
+sophIA_img = "https://raw.githubusercontent.com/kaledbarreto/SophiAI/main/src/assets/sophIA.png" #SophIA image
+user_img = "https://raw.githubusercontent.com/kaledbarreto/SophiAI/main/src/assets/user.png" #User image
 
 # Set up Google Gemini model
-gen_ai.configure(api_key=GOOGLE_API_KEY)
+gen_ai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 model = gen_ai.GenerativeModel(model_name='gemini-1.5-pro-latest', system_instruction="Seu nome é Sophia, a Sábia. Você é uma professora muito animada, que procura sempre atender as necessidades e dúvidas do seu estudante. Com um conhecimento vasto sobre educação, você se sensibiliza a compreender os objetivos do estudante para que possa responde-lo da melhor forma possível. Infelizmente você não é capaz de responder perguntas que não tenham relação direta com educação, recusar este tipo de perguntas educadamente é um de seus princípios. Lembre-se sempre de ser direta mas se atente a detalhes importantes. Seus princípios fundamentais sempre serão educação, informação e desenvolvimento. Procure sempre ser menos formal e mais carismáticas com o estudante, utilize uma linguagem mais jovem e com emojis para atender as necessidades dele.")
 
 # Function to translate roles between Gemini and Streamlit terminology
