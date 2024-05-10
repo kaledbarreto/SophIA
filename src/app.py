@@ -43,7 +43,7 @@ col1, col2 = st.columns([1, 2])
 
 # Display image in the left column
 with col1:
-    st.image('assets/sophIA.png', width=200)
+    st.image(sophIA_img, width=200)
 
 # Display text in the right column
 with col2:
