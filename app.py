@@ -27,9 +27,12 @@ if "chat_session" not in st.session_state:
 # Display the chatbot's title on the page
 st.title("Sophia, a Sábia! ⭐")
 
+sophIA_img = "https://raw.githubusercontent.com/kaledbarreto/SophiAI/main/assets/sophIA.png";
+user_img = "https://raw.githubusercontent.com/kaledbarreto/SophiAI/main/assets/user.png"
+
 # Display the chat history
 for message in st.session_state.chat_session.history:
-    avatar = "👧🏽" if translate_role_for_streamlit(message.role) == "assistant" else translate_role_for_streamlit(message.role)
+    avatar = sophIA_img if translate_role_for_streamlit(message.role) == "assistant" else user_img
     with st.chat_message(translate_role_for_streamlit(message.role), avatar=avatar):
         st.markdown(message.parts[0].text)
 
@@ -37,11 +40,11 @@ for message in st.session_state.chat_session.history:
 user_prompt = st.chat_input("Pergunte algo para mim! :)")
 if user_prompt:
     # Add user's message to chat and display it
-    st.chat_message("user").markdown(user_prompt)
+    st.chat_message("user", avatar=user_img).markdown(user_prompt)
 
     # Send user's message to Sophia and get the response
     gemini_response = st.session_state.chat_session.send_message(user_prompt)
 
     # Display Sophia's response
-    with st.chat_message("assistant", avatar="👧🏽"):
+    with st.chat_message("assistant", avatar=sophIA_img):
         st.markdown(gemini_response.text)
