@@ -96,11 +96,4 @@ Inicie o servidor
   python streamlit run src/app.py
 ```
 
-## Autor
-
-  <div style="text-align: center; padding: 20px;">
-    <img style="display: block; margin: 0 auto; width: 200px; border-radius: 50% 50% 0 0;" src="https://avatars.githubusercontent.com/u/54548833?s=400&u=682ca956b306eead9819d44f78985126c60171a0&v=4" alt="LinkedIn Kaled Barreto">
-    <p style="font-size: 24px; font-weight: bold; color: #fff;">Kaled Barreto</p>
-    <a href="https://www.linkedin.com/in/kaledbarreto/" target="_blank" style="margin-top: 10px; display: inline-block; padding: 5px 10px; background-color: #0077B5; color: white; text-decoration: none;">LinkedIn</a>
-  </div>
 <br>
