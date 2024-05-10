@@ -25,10 +25,31 @@ if "chat_session" not in st.session_state:
     st.session_state.chat_session = model.start_chat(history=[])
 
 # Display the chatbot's title on the page
-st.title("Sophia, a Sábia! ⭐")
+st.markdown(
+    "<h1 style='text-align: center;'>Sophia, a Sábia! ⭐</h1>", unsafe_allow_html=True
+)
 
-sophIA_img = "https://raw.githubusercontent.com/kaledbarreto/SophiAI/main/assets/sophIA.png";
+sophIA_img = "https://raw.githubusercontent.com/kaledbarreto/SophiAI/main/assets/sophIA.png"
 user_img = "https://raw.githubusercontent.com/kaledbarreto/SophiAI/main/assets/user.png"
+
+from PIL import Image
+
+# Load image and text
+image = Image.open('./assets/sophIA.png')  # Replace "image.jpg" with your actual image path
+text = "Olá! 👋 Eu sou a Sophia, a Sábia, sua professora particular! 👩‍🏫 Se tiver qualquer dúvida ou precisar de ajuda com os estudos, pode contar comigo! 😉"
+
+# Create card layout with columns
+col1, col2 = st.columns([1, 2])  # Create two columns with equal width
+
+# Display image in the left column
+with col1:
+    st.image(image, width=200)  # Adjust width as needed
+
+# Display text in the right column
+with col2:
+    st.markdown(f"<p style='margin-top: 1.5em; font-size: 1.5em'>{text}</p>", unsafe_allow_html=True)
+
+st.divider();
 
 # Display the chat history
 for message in st.session_state.chat_session.history:
