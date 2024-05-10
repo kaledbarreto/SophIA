@@ -1,5 +1,4 @@
 import streamlit as st
-from PIL import Image
 from dotenv import load_dotenv
 import os
 import google.generativeai as gen_ai
@@ -36,8 +35,7 @@ st.markdown(
     "<h1 style='text-align: center;'>Sophia, a Sábia! ⭐</h1>", unsafe_allow_html=True
 )
 
-# Load image and text
-image = Image.open('assets/sophIA.png')
+# Load text
 text = "Olá! 👋 Eu sou a Sophia, a Sábia, sua professora particular! 👩‍🏫 Se tiver qualquer dúvida ou precisar de ajuda com os estudos, pode contar comigo! 😉"
 
 # Create card layout with columns
@@ -45,7 +43,7 @@ col1, col2 = st.columns([1, 2])
 
 # Display image in the left column
 with col1:
-    st.image(image, width=200)
+    st.image('assets/sophIA.png', width=200)
 
 # Display text in the right column
 with col2:
