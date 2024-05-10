@@ -10,13 +10,10 @@
 
 ## 💭 Quem é você?
 
-<div style="display: flex; align-items: center">
-  <img src="./src/assets/sophIA.png" alt="Sophia" style="width: 200px; height: auto; margin-right: 20px;">
+  <img src="./src/assets/presentation.png" alt="Sophia" style="width: 100%px; height: auto; margin-right: 20px;">
     <div style="display: flex; flex-direction: column; align-items: center">
-        <p>Oiee!!👋🏽 Eu me chamo Sophia. 🤓 Sou apaixonada por educação e adoro ajudar meus alunos a descobrirem o mundo do conhecimento! 🌎📚</p>
         <p>O que mais posso te contar? Ah, eu sou especialista em diversas áreas, como história, matemática, ciências e muito mais! 🤯 E o melhor de tudo: estou sempre disposta a aprender coisas novas e compartilhar o que sei com você! 🤩</p>
     </div>
-</div>
 
 <br>
 
