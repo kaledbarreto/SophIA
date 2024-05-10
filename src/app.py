@@ -37,7 +37,7 @@ st.markdown(
 )
 
 # Load image and text
-image = Image.open('../src/assets/sophIA.png')
+image = Image.open('assets/sophIA.png')
 text = "Olá! 👋 Eu sou a Sophia, a Sábia, sua professora particular! 👩‍🏫 Se tiver qualquer dúvida ou precisar de ajuda com os estudos, pode contar comigo! 😉"
 
 # Create card layout with columns
