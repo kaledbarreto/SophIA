@@ -37,6 +37,8 @@ E aí, por onde começamos? 😉
      <img src="./src/assets/example_02.png" alt="Sophia" style="width: 100%; height: auto;">
 </div>
 
+<br>
+
 ## 💭 Ok, mas por onde eu começo?
 
 É super fácil! É só seguir esses passos:
@@ -56,11 +58,15 @@ Viu como é fácil? Agora sempre que precisar pode me perguntar! 📚📝
      <img src="./src/assets/how_it_works_done.png" alt="Sophia" style="width: 100%; height: auto;">
 </div>
 
+<br>
+
 ## 💭 Qualquer um pode usar?
 
 Simm!! Seja você um estudante, professor, pai, ou simplesmente alguém curioso, pode contar comigo! 🦉
 
 A educação é para todos, e eu quero tornar o aprendizado algo acessível e prazeroso! 🌎📚 Então não importa sua idade ou nível de conhecimento, pode chegar junto e vamos aprender juntos! 🤝
+
+<br>
 
 ## 💭 Como faço para rodar o projeto localmente?
 
@@ -97,3 +103,21 @@ Inicie o servidor
 ```
 
 <br>
+
+## 💭 Quais são os próximos passos? 👀
+
+- [ ] Integração de Reconhecimento de Voz e Comando
+
+  - A ideia é permitir que os usuários interajam por voz, transmitindo comandos e informações. Imagine só, pedir para a Sophia responder algo, só falando! 🎙️ Incrível, né?
+
+<br>
+
+- [ ] Upload de Imagens para Perguntas Mais Completas
+
+  - Dar aos usuários a possibilidade de enviar imagens para complementar suas perguntas. Se uma imagem vale mais que mil palavras, imagina o poder de uma pergunta com imagem! 🖼️ A Sophia vai entender tudo rapidinho e mandar respostas ainda mais incríveis! 🚀
+
+<br>
+
+- [ ] Integração com o Google para um Atendimento Super Personalizado
+
+  - Imagine a Sophia conectada com o seu Google Agenda! 🗓️ Ela poderia te lembrar de tarefas importantes, compromissos e até datas de entrega de trabalhos! 🤯 Seria como ter uma assistente pessoal te auxiliando nos estudos! 📚 Incrível, né?
