@@ -1,16 +1,12 @@
 <br>
 
-<h1 style="text-align: center">Sophia, a Sábia ⭐</h1>
-
-<br>
-
-![Cover](./src/assets/cover.png)
+![Cover](./docs/designArts/cover.png)
 
 <br>
 
 ## 💭 Quem é você?
 
-  <img src="./src/assets/presentation.png" alt="Sophia" style="width: 100%px; height: auto; margin-right: 20px;">
+  <img src="./docs/designArts/presentation.png" alt="Sophia" style="width: 100%; height: auto; margin-right: 20px;">
     <div style="display: flex; flex-direction: column; align-items: center">
         <p>O que mais posso te contar? Ah, eu sou especialista em diversas áreas, como história, matemática, ciências e muito mais! 🤯 E o melhor de tudo: estou sempre disposta a aprender coisas novas e compartilhar o que sei com você! 🤩</p>
     </div>
@@ -32,10 +28,9 @@ Para começar, posso te auxiliar com:
 
 E aí, por onde começamos? 😉
 
-<div>
-    <img src="./src/assets/example_01.png" alt="Sophia" style="width: 100%; height: auto;">
-     <img src="./src/assets/example_02.png" alt="Sophia" style="width: 100%; height: auto;">
-</div>
+|                                               |                                               |
+| :-------------------------------------------: | :-------------------------------------------- |
+| ![example](./docs/screenshots/example_01.png) | ![example](./docs/screenshots/example_02.png) |
 
 <br>
 
@@ -53,10 +48,9 @@ E aí, por onde começamos? 😉
 
 Viu como é fácil? Agora sempre que precisar pode me perguntar! 📚📝
 
-<div>
-    <img src="./src/assets/how_it_works.gif" alt="Sophia" style="width: 100%; height: auto;">
-     <img src="./src/assets/how_it_works_done.png" alt="Sophia" style="width: 100%; height: auto;">
-</div>
+|                                                    |                                                    |
+| :------------------------------------------------- | -------------------------------------------------- |
+| ![example](./docs/screenshots/how_it_works_01.gif) | ![example](./docs/screenshots/how_it_works_02.png) |
 
 <br>
 
