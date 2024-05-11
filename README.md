@@ -20,6 +20,8 @@
 - [💭 Como vc pode me ajudar?](#how)
 - [💭 Ok, mas por onde eu começo?](#where-start)
 - [💭 Como faço para rodar o projeto localmente?](#how-to-run)
+- [💭 Quais são os próximos passos? 👀](#next-steps)
+- [⭐ Autor ⭐](#authors)
 
 <br>
 
@@ -127,6 +129,8 @@ Inicie o servidor
   - Imagine a Sophia conectada com o seu Google Agenda! 🗓️ Ela poderia te lembrar de tarefas importantes, compromissos e até datas de entrega de trabalhos! 🤯 Seria como ter uma assistente pessoal te auxiliando nos estudos! 📚 Incrível, né?
 
 <br>
+
+<a id="author"></a>
 
 ## ⭐ Autor ⭐
 
