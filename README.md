@@ -17,11 +17,11 @@
 
 ## 🔍 Sumário
 
-- [💭 Como vc pode me ajudar?](#how)
-- [💭 Ok, mas por onde eu começo?](#where-start)
-- [💭 Como faço para rodar o projeto localmente?](#how-to-run)
-- [💭 Quais são os próximos passos? 👀](#next-steps)
-- [⭐ Autor ⭐](#authors)
+- 💭 [Como vc pode me ajudar?](#how)
+- 💭 [Ok, mas por onde eu começo?](#where-start)
+- 💭 [Como faço para rodar o projeto localmente?](#how-to-run)
+- 💭 [Quais são os próximos passos?](#next-steps) 👀
+- ⭐ [Autor](#author) ⭐
 
 <br>
 
