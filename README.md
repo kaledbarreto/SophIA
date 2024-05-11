@@ -6,10 +6,12 @@
 
 ## 💭 Quem é você?
 
-  <img src="./docs/designArts/presentation.png" alt="Sophia" style="width: 100%; height: auto; margin-right: 20px;">
-    <div style="display: flex; flex-direction: column; align-items: center">
-        <p>O que mais posso te contar? Ah, eu sou especialista em diversas áreas, como história, matemática, ciências e muito mais! 🤯 E o melhor de tudo: estou sempre disposta a aprender coisas novas e compartilhar o que sei com você! 🤩</p>
-    </div>
+<img src="./docs/designArts/presentation.png" alt="Sophia" style="width: 100%; height: auto; margin-right: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center">
+  <p>O que mais posso te contar? Ah, eu sou especialista em diversas áreas, como história, matemática, ciências e muito mais! 🤯 E o melhor de tudo: estou sempre disposta a aprender coisas novas e compartilhar o que sei com você! 🤩</p>
+  <p> A educação é para todos, e eu quero tornar o aprendizado algo acessível e prazeroso! 🌎📚 Então não importa sua idade ou nível de conhecimento, pode chegar junto e vamos aprender juntos! 🤝
+  </p>
+</div>
 
 <br>
 
@@ -48,17 +50,9 @@ E aí, por onde começamos? 😉
 
 Viu como é fácil? Agora sempre que precisar pode me perguntar! 📚📝
 
-|                                                    |                                                    |
-| :------------------------------------------------- | -------------------------------------------------- |
-| ![example](./docs/screenshots/how_it_works_01.gif) | ![example](./docs/screenshots/how_it_works_02.png) |
-
 <br>
 
-## 💭 Qualquer um pode usar?
-
-Simm!! Seja você um estudante, professor, pai, ou simplesmente alguém curioso, pode contar comigo! 🦉
-
-A educação é para todos, e eu quero tornar o aprendizado algo acessível e prazeroso! 🌎📚 Então não importa sua idade ou nível de conhecimento, pode chegar junto e vamos aprender juntos! 🤝
+![example](./docs/screenshots/how_it_works_01.gif)
 
 <br>
 
@@ -115,3 +109,15 @@ Inicie o servidor
 - [ ] Integração com o Google para um Atendimento Super Personalizado
 
   - Imagine a Sophia conectada com o seu Google Agenda! 🗓️ Ela poderia te lembrar de tarefas importantes, compromissos e até datas de entrega de trabalhos! 🤯 Seria como ter uma assistente pessoal te auxiliando nos estudos! 📚 Incrível, né?
+
+<br>
+
+## ⭐ Autor ⭐
+
+- Meu nome é Kaled Barreto, tenho 22 anos e sou um desenvolvedor Front-end com mais de 5 anos de experiência em desenvolvimento web! Sou formado em Análise e Desenvolvimento de Sistemas no SENAI Cimatec e atualmente estou no ultimo semestre cursando Ciências da Computação na UNIFACS.
+
+<br>
+
+- **Redes Sociais:**
+  - Github: [**@kaledbarreto**](https://www.github.com/kaledbarreto)
+  - Linkedin: [**Kaled Barreto**](https://www.linkedin.com/in/kaledbarreto/)
