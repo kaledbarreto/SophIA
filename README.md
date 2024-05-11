@@ -19,7 +19,7 @@
 
 ## 💭 Como vc pode me ajudar?
 
-Uau, 🤩 existem inúmeras maneiras de te ajudar!
+Uau, 🤩 existem inúmeras maneiras de te ajudar!!
 
 Para começar, posso te auxiliar com:
 
