@@ -15,6 +15,16 @@
 
 <br>
 
+## 🔍 Sumário
+
+- [💭 Como vc pode me ajudar?](#how)
+- [💭 Ok, mas por onde eu começo?](#where-start)
+- [💭 Como faço para rodar o projeto localmente?](#how-to-run)
+
+<br>
+
+<a id="how"></a>
+
 ## 💭 Como vc pode me ajudar?
 
 Uau, 🤩 existem inúmeras maneiras de te ajudar!!
@@ -36,6 +46,8 @@ E aí, por onde começamos? 😉
 
 <br>
 
+<a id="where-start"></a>
+
 ## 💭 Ok, mas por onde eu começo?
 
 É super fácil! É só seguir esses passos:
@@ -55,6 +67,8 @@ Viu como é fácil? Agora sempre que precisar pode me perguntar! 📚📝
 ![example](./docs/screenshots/how_it_works_01.gif)
 
 <br>
+
+<a id="how-to-run"></a>
 
 ## 💭 Como faço para rodar o projeto localmente?
 
@@ -91,6 +105,8 @@ Inicie o servidor
 ```
 
 <br>
+
+<a id="next-steps"></a>
 
 ## 💭 Quais são os próximos passos? 👀
 
