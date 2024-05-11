@@ -114,7 +114,7 @@ Inicie o servidor
 
 ## ⭐ Autor ⭐
 
-- Meu nome é Kaled Barreto, tenho 22 anos e sou um desenvolvedor Front-end com mais de 5 anos de experiência em desenvolvimento web! Sou formado em Análise e Desenvolvimento de Sistemas no SENAI Cimatec e atualmente estou no ultimo semestre cursando Ciências da Computação na UNIFACS.
+- Meu nome é **Kaled Barreto**, tenho 22 anos e sou um desenvolvedor Front-end com mais de 5 anos de experiência em desenvolvimento web! Sou formado em Análise e Desenvolvimento de Sistemas no SENAI Cimatec e atualmente estou no ultimo semestre cursando Ciências da Computação na UNIFACS.
 
 <br>
 
