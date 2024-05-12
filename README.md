@@ -79,22 +79,22 @@ Viu como é fácil? Agora sempre que precisar pode me perguntar! 📚📝
 Clone o projeto (c/ SSH)
 
 ```bash
-  git clone git@github.com:kaledbarreto/SophIA.git
+$ git clone git@github.com:kaledbarreto/SophIA.git
 ```
 
 Vá para o diretório do projeto
 
 ```bash
-  cd SophIA
+$ cd SophIA
 ```
 
 Instale as dependências do projeto
 
 ```bash
-  pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
-Crie um arquivo chamado `.env` com o seguinte conteúdo:
+Crie um arquivo chamado `.env` com o seguinte conteúdo como no `.env.example`:
 
 ```.env
 GOOGLE_API_KEY = "<YOUR-GOOGLE-API-KEY>"
@@ -103,7 +103,7 @@ GOOGLE_API_KEY = "<YOUR-GOOGLE-API-KEY>"
 Inicie o servidor
 
 ```bash
-  python streamlit run src/app.py
+$ python streamlit run src/app.py
 ```
 
 <br>
