@@ -103,7 +103,7 @@ GOOGLE_API_KEY = "<YOUR-GOOGLE-API-KEY>"
 Inicie o servidor
 
 ```bash
-$ python streamlit run src/app.py
+$ streamlit run src/app.py
 ```
 
 <br>
