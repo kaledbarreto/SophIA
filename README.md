@@ -94,7 +94,7 @@ Instale as dependências do projeto
 $ pip install -r requirements.txt
 ```
 
-Crie um arquivo chamado `.env` com o seguinte conteúdo como no `.env.example`:
+Crie um arquivo chamado `.env` com o seguinte conteúdo como no `.env.example`
 
 ```.env
 GOOGLE_API_KEY = "<YOUR-GOOGLE-API-KEY>"
